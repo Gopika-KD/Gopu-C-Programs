@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    // Variable side
+    // Variable side1, side2
     int side1;
     float side2;
 
